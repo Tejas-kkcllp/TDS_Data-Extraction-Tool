@@ -2,3 +2,6 @@ openpyxl
 xlsxwriter
 streamlit
 pdfplumber
+PyPDF2
+pandas
+regex
