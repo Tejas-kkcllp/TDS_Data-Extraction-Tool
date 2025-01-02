@@ -1,7 +1,7 @@
-openpyxl
-xlsxwriter
 streamlit
+pandas
 pdfplumber
 PyPDF2
-pandas
+openpyxl
+xlsxwriter
 regex
